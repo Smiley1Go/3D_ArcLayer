@@ -56,5 +56,5 @@ Open the live dashboard link in any modern browser. No installation is required 
 
 ## Author
 
-Joshby Joshy — M.Sc. Geoinformatics, BVIEER, Pune
-Course: Geospatial Big Data Analysis | Course Coordinator: Dr. Aravinth R
+Joshby Joshy — M.Sc. Geoinformatics
+Course: Geospatial Big Data Analysis 
